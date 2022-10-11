@@ -13,10 +13,10 @@ Obs:Dentro do mundo do desenvolvimento você pode seguir diversos caminhos. Algu
 
 > "Quem nunca errou, nunca tentou algo novo!" Albert Einstein
 
-`` system.out.println("Hello mworld! Sua jornada começou?") `` 
-
 Antes de começar Revisce o que foi estudado
 `` Jornada começa agora``
+
+``m.out.println("Olá Mundo! a jornada começou")``
 
 
 
