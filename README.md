@@ -1,5 +1,5 @@
 @@ -1,15 +1,49 @@
-# plano_de_estudos
+# Plano_de_Estudos
 ## Criando um plano de estudos em Java com Github
 Este plano de estudo  é voltado para que eu possa ingressar na área de programação com Java. Os cursos aqui listados são gratuitos e fazem parte da plataforma DIO.me. A onde me encontro fazedo minha formação e caminho para o mundo da programação.
 
