@@ -21,7 +21,7 @@ Antes de começar Revisce o que foi estudado
 
 **Nível Iniciante**
 
-- Bootcamp Potência Tech powered by iFood - Java Beginners - [acesse o curso](https://web.dio.me/course/introducao-ao-ecossistema-e-documentacao-java/learning/54e1ad91-8842-4065-bc89-37329f54f0cd)
+- Bootcamp Potência Tech powered by iFood - Java Beginners - [Acesse o Curso](https://web.dio.me/course/introducao-ao-ecossistema-e-documentacao-java/learning/54e1ad91-8842-4065-bc89-37329f54f0cd)
 
 **Curso feitos do Bootcamp:**
 
@@ -37,6 +37,10 @@ Principios de Desenvolvimento de Software:
 - [X] Como Entregar seu Desafio de Projeto
 - [X] Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso
 
+**Desafios**
+
+- [x] Dominando Algoritimos Básicos com Desafios de Código Java - [Acesse Repositório](https://github.com/Hub-Rodrigo/Dio-Trilha-Java-Basico/tree/main/Cuso-Java/src/Desafios)
+
 **Em andamento:**
 
 Conhecendo a Linguagem de Programação Java:
@@ -48,7 +52,7 @@ Conhecendo a Linguagem de Programação Java:
 - [ ] Entendendo Método Java 
 
 **A fazer:**
-- [x] Dominando Algoritimos Básicos com Desafios de Código Java
+
 - [ ] Programação Orientada a Objetos com Java
 - [ ] Ganhando Produtividade com Spring Framework
 - [ ] Dominando Algoritmos Intermediários com Desafios de Código Java
