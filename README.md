@@ -37,19 +37,26 @@ Principios de Desenvolvimento de Software:
 - [X] Como Entregar seu Desafio de Projeto
 - [X] Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso
 
-**Desafios**
-
-- [x] Dominando Algoritimos Básicos com Desafios de Código Java - [Acesse Repositório](https://github.com/Hub-Rodrigo/Dio-Trilha-Java-Basico/tree/main/Cuso-Java/src/Desafios)
-
-**Em andamento:**
-
 Conhecendo a Linguagem de Programação Java:
 - [X] Introdução à Plataforma Java
 - [X] Ambiente de Desenvolvimento Java
 - [x] Aprendendo a Sintaxe Java 
 - [x] Lógica Condicional e Controle de Fluxos
 - [x] Estruturas de Repetições e Arraya em Java
-- [ ] Entendendo Método Java 
+- [x] Entendendo Método Java 
+
+**Desafios**
+
+- [x] Dominando Algoritimos Básicos com Desafios de Código Java - [Acesse Repositório](https://github.com/Hub-Rodrigo/Dio-Trilha-Java-Basico/tree/main/Cuso-Java/src/Desafios)
+
+**Em andamento:**
+
+Programação Orientada a Objetos com Java:
+- [ ] Programação Orientada a Objetos
+- [ ] Trabalhando com Collections Java
+- [ ] Debugging Java
+- [ ] Tratamento de Exceções em Java
+- [ ] Abstraindo um Bootcamp Usando Orientação a Objetos em Java
 
 **A fazer:**
 
