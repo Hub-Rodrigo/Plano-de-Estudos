@@ -42,13 +42,13 @@ Principios de Desenvolvimento de Software:
 Conhecendo a Linguagem de Programação Java:
 - [X] Introdução à Plataforma Java
 - [X] Ambiente de Desenvolvimento Java
-- [ ] Aprendendo a Sintaxe Java 
-- [ ] Lógica Condicional e Controle de Fluxos
-- [ ] Estruturas de Repetições e Arraya em Java
+- [x] Aprendendo a Sintaxe Java 
+- [x] Lógica Condicional e Controle de Fluxos
+- [x] Estruturas de Repetições e Arraya em Java
 - [ ] Entendendo Método Java 
 
 **A fazer:**
-- [ ] Dominando Algoritimos Básicos com Desafios de Código Java
+- [x] Dominando Algoritimos Básicos com Desafios de Código Java
 - [ ] Programação Orientada a Objetos com Java
 - [ ] Ganhando Produtividade com Spring Framework
 - [ ] Dominando Algoritmos Intermediários com Desafios de Código Java
@@ -60,5 +60,5 @@ Tasks para continuar evoluindo:
 - [X] Assista ao curso
 - [X] Faça anotações
 - [ ] Faça os projetos sozinho
-- [ ] Tire as dúvidas
+- [x] Tire as dúvidas
 - [ ] Done! 🎉
